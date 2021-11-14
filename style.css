@@ -1,0 +1,26 @@
+li {
+    display: inline;
+    padding: 10px ;
+  }
+  ul {
+    list-style-type: none;
+  }
+a {
+    text-decoration: none;
+}
+.centerButton {
+    text-align: center;
+}
+.yellowButton {
+    padding: 15px;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.footer {
+    color: red;
+}
